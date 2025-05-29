@@ -1,4 +1,7 @@
 # School-Projects
-Projects and Work from University in Replit, click view more if the webpage does not show them all
+Projects and Work from University, click view more if the webpage does not show them all
 
-Link: https://replit.com/@jsmithprojects
+Links: 
+
+https://replit.com/@jsmithprojects
+https://drive.google.com/drive/folders/1HaLY7VroCM_S9BRasfoeKNEPRiJEAH8r?usp=sharing
