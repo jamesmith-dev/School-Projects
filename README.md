@@ -1,7 +1,6 @@
 # School-Projects
 University projects and work, please click view more if the webpage does not load them all
 
-Links: 
 
 Programming:
 https://replit.com/@jsmithprojects
