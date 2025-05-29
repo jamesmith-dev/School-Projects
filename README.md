@@ -1,5 +1,5 @@
 # School-Projects
-University projects and work, click view more if the webpage does not load them all
+University projects and work, please click view more if the webpage does not load them all
 
 Links: 
 
