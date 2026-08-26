@@ -1,11 +1,4 @@
-# School-Projects
-University projects and work, view more if the webpage does not load them all
 
-
-Programming:
-
-https://replit.com/@jsmithprojects
-
-Data Science:
+Data Science Work:
 
 https://drive.google.com/drive/folders/1HaLY7VroCM_S9BRasfoeKNEPRiJEAH8r?usp=sharing
